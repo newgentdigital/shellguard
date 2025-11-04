@@ -1,3 +1,3 @@
-![Repository banner for @newgentdigital/discav](https://raw.githubusercontent.com/newgentdigital/.github/refs/heads/main/banner.png)
+![Repository banner for @newgentdigital/shellguard](https://raw.githubusercontent.com/newgentdigital/.github/refs/heads/main/banner.png)
 
-# @newgentdigital/discav
+# @newgentdigital/shellguard
