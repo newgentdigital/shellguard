@@ -10,7 +10,10 @@ name = "secrets"
 name = "javascript"
 
   [analyzers.meta]
-  environment = ["nodejs"]
+  environment = [
+    "nodejs",
+    "browser"
+  ]
 
 [[transformers]]
 name = "prettier"
